@@ -9,7 +9,7 @@ dl, dd, ol, ul, figure {
 }
 
 body {
-  font-family: "Source Sans Pro", helvetica;
+  font-family: "Source Sans Pro", helvetica, sans-serif;
   background-color: #E7E7E7;
   color: #646464;
   font-size: 62.5%;
@@ -155,7 +155,7 @@ h5 {
 }
 
 pre, code {
-  font-family: "Inconsolata";
+  font-family: "Inconsolata", monospace;
 }
 
 pre {
@@ -195,5 +195,5 @@ blockquote {
 .site-footer {
   font-size: 1.3em;
   color: #646464;
-  padding: 25px 0 25px;
+  padding: 25px 15px 25px;
 }
