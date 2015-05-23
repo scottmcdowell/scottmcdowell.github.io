@@ -1,0 +1,199 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; 
+}
+
+body {
+  font-family: "Source Sans Pro", helvetica;
+  background-color: #E7E7E7;
+  color: #646464;
+  font-size: 62.5%;
+}
+
+.site-header {
+  background-color: #FFF;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+h1 a {
+  background-image:url('../rapid_array.png');
+  margin: 0 auto;
+  background-size: 90px 90px;
+  background-repeat: no-repeat;
+  height:90px;
+  width: 90px;
+  text-indent: -9999px;
+  display: block;
+}
+
+#site-logo {
+  padding: 50px 0; 
+}
+
+#navigation {
+  background-color: #BABABA;
+  display: block;
+  height: 25px;
+}
+
+#navigation ul {
+  list-style: none outside none; 
+  margin: 0; 
+  padding: 0; 
+  text-align: center;
+}
+
+#navigation ul li {
+  margin: 0 15px;
+  display: inline;
+}
+
+#navigation ul li a {
+  color: #FFF;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 3px 0 0;
+}
+
+#navigation ul li a:hover {
+  color: #646464;
+}
+
+.home {
+ clear: both;
+}
+
+
+.page-content {
+  margin: 100px 15px;
+}
+
+.post-list {
+  list-style: none;
+}
+
+.post-list li {
+  margin: 0 0 75px;
+}
+
+a {
+  color: #646464;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 2.2em;
+  color: #646464;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 0 0 20px;
+  display: block;
+}
+
+h3 a {
+  text-decoration: none;
+  color: #646464;  
+}
+
+.post-content  p {
+  font-size: 1.7em;
+  line-height: 1.5em;
+  margin: 0 0 25px;
+}
+
+h4 {
+  font-size: 1.6em;
+  margin: 0 0 25px;
+  display: inline-block;
+}
+
+h4 a {
+  color: #646464;
+  font-weight: 700;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.permalink {
+  margin: 0 0 0 20px;
+  display: inline-block;
+  vertical-align: baseline; 
+}
+
+.permalink a {
+  padding: 3px 2px 0;
+}
+
+.permalink a:hover {
+  background-color: #FFF;
+}
+
+h5 {
+  color: #646464;
+  font-weight: 700;
+  font-size: 1.5em;
+  margin: 0 0 25px;
+  text-transform: uppercase;
+}
+
+.post-meta {
+  font-size: 1.4em;
+  font-style: italic;
+  margin: 0 0 25px;
+}
+
+pre, code {
+  font-family: "Inconsolata";
+}
+
+pre {
+  font-size: 1.7em;
+  padding: 15px 25px;
+  background-color: #646464;
+  color: #FFF;
+  margin: 0 15px 25px;
+}
+
+blockquote {
+  padding: 0 0 0 20px;
+  margin: 0 0 0 3px;
+  border-left: 1px solid #646464;
+}
+
+.archive {
+  list-style: none;
+  margin: 0 0 0 25px;
+}
+
+.archive li {
+  font-size: 1.4em;
+  margin: 0 0 5px;
+}
+
+.archive li a {
+  font-weight: 600;
+  margin: 0 10px 0 0;
+}
+
+.archive time {
+  color: #BABABA;
+  font-size: .9em;
+}
+
+.site-footer {
+  font-size: 1.3em;
+  color: #646464;
+  padding: 25px 0 25px;
+}
