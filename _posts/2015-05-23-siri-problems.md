@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open the Pod Bay Doors, HAL!"
+title: "Open the Pod Bay Doors, Siri"
 date: 2015-05-26 23:08:00
 type: link
 external-url: http://www.theverge.com/2015/5/26/8654305/apple-watch-makes-me-talk-like-everyone-else
