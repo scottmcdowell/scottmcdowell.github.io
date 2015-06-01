@@ -4,7 +4,7 @@ email: scott@rapidarray.net
 description: > # this means to ignore newlines until "baseurl:"
   Rapid Array
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http:rapidarray.net" 
+url: "http://rapidarray.net" 
 github_username:  scottmcdowell
 timezone: America/New_York
 
