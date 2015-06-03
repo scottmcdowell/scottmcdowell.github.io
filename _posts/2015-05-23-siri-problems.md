@@ -14,7 +14,7 @@ Sam Byford, writing for <strike>Live Journal</strike> The Verge:
 
 >it’s important to be able to express yourself in writing — not just with words, but with style. writers like e e cummings, cormac mccarthy, and film crit hulk have made style a part of their work, subverting standard english to help convey a mood or message. 
 
-"I know I've made some very poor decisions recently, but I can give you my complete assurance that my work will be back to normal. I've still got the greatest enthusiasm and confidence in the mission. And I want to help you."
+"I know I've made some very poor decisions recently, but I can give you my complete assurance that my work will be back to normal. I've still got the greatest enthusiasm and confidence in the mission. And I want to help you. "
 
 >i worry, though, that it might be too late. we appear to be headed toward a future where everyone’s speech is filed down into a bland, conventional codex of homogeneity, and where this is considered a feature, not a bug. apple’s watch may be its most personal device ever, but it’ll have to get to know me a lot better before i’ll be comfortable telling it my thoughts.
 
