@@ -6,4 +6,4 @@ type: link
 external-url: http://www.relay.fm/rd
 ---
 
-Another John on the line. Excited to see where this podcast goes.
+A different John on the line. Excited to see where this podcast goes.
