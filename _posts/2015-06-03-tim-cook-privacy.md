@@ -14,6 +14,5 @@ Matthew Panzarino commenting:
 
 >I’m honestly surprised that it took this long for Apple to begin leveraging this particular ‘fine print’ point of how it does business.
 
-I agree, but I think it's more than that. One of the most admirable things about Tim Cook's Apple is its transparency and hard line on certain issues: workplace equality, environmental issues, accessibility, and privacy. While these trait are certainly marketable (in my mind, at least), I don't think Cook places a premium on them for leverage, or marketability, and certainly not ROI. Tim Cook pursues them because he thinks it's the right thing to do.
+I agree, but I think it's more than that. One of the most admirable things about Tim Cook's Apple is its transparency and hard line on certain issues – notably: workplace equality, environmental issues, accessibility, and privacy. While these trait are certainly marketable (in my mind), I don't think Cook places a premium on them for leverage or marketability, and [certainly not ROI](http://www.macobserver.com/tmo/article/tim-cook-soundly-rejects-politics-of-the-ncppr-suggests-group-sell-apples-s). Tim Cook pursues them because it's the right thing to do.
 
-In [his own words](http://www.macobserver.com/tmo/article/tim-cook-soundly-rejects-politics-of-the-ncppr-suggests-group-sell-apples-s), "If you want me to do things only for ROI reasons, you should get out of this stock."

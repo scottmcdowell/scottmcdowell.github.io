@@ -127,7 +127,7 @@ h4 a {
 }
 
 .permalink {
-  margin: 0 0 0 20px;
+  margin: 0 0 0 15px;
   display: inline-block;
   vertical-align: baseline; 
 }
@@ -189,6 +189,8 @@ blockquote {
 
 .archive-month {
   margin: 20px 0;
+  text-transform: uppercase;
+  font-size: 1.5em;
 }
 
 .archive time {
