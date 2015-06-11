@@ -6,7 +6,7 @@ layout: default
   <h4><a href="{{ post.external-url | prepend: site.baseurl }}">{{ page.title }}</a></h4>           
   <article class="post-content">
     {{ content }} 
-    <div class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</div>           
+    <div class="link-post-meta">{{ page.date | date: "%b %-d, %Y" }}</div>           
   </article>
 {% else %}
   <h3>{{ page.title }}</h3>       
