@@ -7,4 +7,4 @@ external-url: https://developer.apple.com/fonts/
 ---
 
 
-[WWDC Session](https://developer.apple.com/videos/wwdc/2015/?id=804) on the new system font.
+[WWDC Session](https://developer.apple.com/videos/wwdc/2015/?id=804) on the new Apple system font.
